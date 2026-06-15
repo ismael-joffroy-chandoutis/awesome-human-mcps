@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please credit it as below."
+title: "awesome-human-mcps"
+abstract: "Curated list of MCP servers for AI-to-human task delegation. RentAHuman, HumanMCP, GoToHuman, DoorDash, Instacart, and more."
+type: dataset
+authors:
+  - given-names: "Ismaël"
+    family-names: "Joffroy Chandoutis"
+    website: "https://github.com/12georgiadis"
+repository-code: "https://github.com/12georgiadis/awesome-human-mcps"
+url: "https://github.com/12georgiadis/awesome-human-mcps"
+license: CC-BY-NC-ND-4.0
