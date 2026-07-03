@@ -101,3 +101,5 @@ PRs welcome. Add new platforms, fix broken links, share your integration experie
 ## License
 
 CC0 1.0 Universal — Public Domain
+
+By [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
