@@ -1,3 +1,5 @@
+**English** · [Français](README.fr.md)
+
 # Awesome Human MCPs
 
 > A curated list of MCP servers that let AI agents delegate tasks to real humans.
@@ -100,6 +102,6 @@ PRs welcome. Add new platforms, fix broken links, share your integration experie
 
 ## License
 
-CC0 1.0 Universal — Public Domain
+CC BY-NC-ND 4.0 — see [LICENSE.md](LICENSE.md).
 
 By [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
