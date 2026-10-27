@@ -26,6 +26,7 @@ Le chaînon manquant entre les agents IA et le monde physique. Quand votre agent
 | [human-mcp](https://github.com/upamune/human-mcp) | Auto-hébergé (Python) | L'humain comme serveur MCP (outils œil, main, bouche). UI Streamlit | 45 étoiles |
 | [mcp-human-loop](https://github.com/boorich/mcp-human-loop) | Auto-hébergé | Score les requêtes sur la complexité/le risque pour décider si une revue humaine est nécessaire | GitHub |
 | [telegram-human-in-the-loop](https://github.com/theohero/telegram-human-in-the-loop) | Auto-hébergé | HITL via Telegram | GitHub |
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | `apn mcp serve` (stdio local) | Relais au propriétaire du portefeuille : `apn_foreground_handoff` renvoie la commande terminal à approuver/exécuter pour signer les transferts directs ou actions EVM ; macOS Apple Silicon + Node.js 24 | `brew install nuanu-ai/tap/apn` (logiciel MIT ; frais de réseau/service distincts) |
 
 ## Gig economy — livraison et services
 

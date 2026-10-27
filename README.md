@@ -26,6 +26,7 @@ The missing link between AI agents and the physical world. When your agent can't
 | [human-mcp](https://github.com/upamune/human-mcp) | Self-hosted (Python) | Human as MCP server (eye, hand, mouth tools). Streamlit UI | 45 stars |
 | [mcp-human-loop](https://github.com/boorich/mcp-human-loop) | Self-hosted | Scores requests on complexity/risk to decide if human review needed | GitHub |
 | [telegram-human-in-the-loop](https://github.com/theohero/telegram-human-in-the-loop) | Self-hosted | HITL via Telegram | GitHub |
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | `apn mcp serve` (local stdio) | Payment-owner handoff: `apn_foreground_handoff` returns the terminal command for the owner to approve/sign direct transfers or EVM actions; Apple Silicon macOS + Node.js 24 | `brew install nuanu-ai/tap/apn` (MIT software; network/service fees separate) |
 
 ## Gig Economy — Delivery & Services
 
